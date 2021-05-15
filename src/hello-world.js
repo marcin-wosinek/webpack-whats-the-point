@@ -1,4 +1,4 @@
-import { range } from "../node_modules/underscore/underscore-esm.js";
+import { range } from "underscore";
 
 const element = document.getElementById("echo");
 
