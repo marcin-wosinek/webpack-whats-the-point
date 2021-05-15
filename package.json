@@ -1,0 +1,23 @@
+{
+  "name": "webpack-whats-the-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcin-wosinek/webpack-whats-the-point.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcin-wosinek/webpack-whats-the-point/issues"
+  },
+  "homepage": "https://github.com/marcin-wosinek/webpack-whats-the-point#readme",
+  "dependencies": {
+    "underscore": "^1.13.1"
+  }
+}
