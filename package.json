@@ -19,5 +19,8 @@
   "homepage": "https://github.com/marcin-wosinek/webpack-whats-the-point#readme",
   "dependencies": {
     "underscore": "^1.13.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0"
   }
 }
